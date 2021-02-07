@@ -1,5 +1,5 @@
 <?php
-<?php get_header(); ?>
+get_header();
 
 
 
@@ -7,6 +7,6 @@
 echo 'hi';
 
 
-<?php get_footer(); ?>
+ get_footer(); 
 
  ?>
